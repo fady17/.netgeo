@@ -1,0 +1,294 @@
+[
+  {
+    "NameEn": "Bosch Car Service - Auto Mech", "NameAr": "بوش كار سيرفيس - أوتو ميك", "Address": "13 Industrial Zone, 6th October City", "Latitude": 29.9523, "Longitude": 30.9176, "PhoneNumber": "01000021565", "ServicesOffered": "Engine Diagnostics, Oil Change, Brake Service", "OpeningHours": "Sat-Thu 9am-7pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "El Saba Automotive Service Center", "NameAr": "مركز خدمة السباعى للسيارات", "Address": "El Mehwar Al Markazi, 6th of October City", "Latitude": 30.070042549123325, "Longitude": 31.35249452751594, "PhoneNumber": "19112", "ServicesOffered": "Maintenance, Diagnostics, Periodic Services", "OpeningHours": "Sun-Fri 9am-6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Auto Pro Center", "NameAr": "مركز أوتو برو", "Address": "Extension of 26th July Corridor, 6th October City", "Latitude": 29.9701, "Longitude": 30.9054, "PhoneNumber": "01099455663", "ServicesOffered": "Tire Services, Oil Change, Engine Tune-up", "OpeningHours": "Sat-Thu 10am-8pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Ghabbour Auto Service", "NameAr": "غبور أوتو", "Address": "Plot 2, Area 7, 6th October Industrial Zone", "Latitude": 29.9609, "Longitude": 30.9134, "PhoneNumber": "16661", "ServicesOffered": "Hyundai Service, AC Repair, Electrical Work", "OpeningHours": "Sat-Thu 8am-6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Speed Car Service Center", "NameAr": "سبيد كار مركز خدمة", "Address": "Waslet Dahshur, 6th October City", "Latitude": 29.9768, "Longitude": 30.9021, "PhoneNumber": "01234567890", "ServicesOffered": "Brake Service, Oil Change, Tune-Up", "OpeningHours": "Sat-Fri 9am-8pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Auto Egypt", "NameAr": "أوتو إيجيبت", "Address": "Plot 10, 2nd Industrial Zone, 6th October City", "Latitude": 29.9575, "Longitude": 30.9090, "PhoneNumber": "01000276423", "ServicesOffered": "Repair, Servicing Equipment, AC Repair", "OpeningHours": "Sat-Thu 9am-6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Tariq Auto Repair Center", "NameAr": "مركز طارق لتصليح السيارات", "Address": "Plot 54, Rd. 6, 2nd Service Spine, 1st Industrial Zone, 6th October City", "Latitude": 29.9615, "Longitude": 30.9159, "PhoneNumber": "01006865777", "ServicesOffered": "General Repairs, Servicing Equipment", "OpeningHours": "Sat-Thu 9am-6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Hi Tech Commercial Vehicle Service", "NameAr": "هاى تك لصيانة المركبات التجارية", "Address": "Plot 73, Extension Industrial Zone III, 6th October City", "Latitude": 29.9590, "Longitude": 30.9170, "PhoneNumber": "01100900742", "ServicesOffered": "Commercial Vehicles Maintenance, AC, Painting", "OpeningHours": "Sat-Thu 8:30am-5:30pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Technical Workshop 11th District", "NameAr": "ورشة فنية الحي 11", "Address": "11th District, 6th October City", "Latitude": 29.9640, "Longitude": 30.9200, "PhoneNumber": "01004057239", "ServicesOffered": "General Repairs, Electrical, AC", "OpeningHours": "Sat-Thu 9am-6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Car Repair Service Center October", "NameAr": "مركز خدمة تصليح سيارات أكتوبر", "Address": "6th of October City", "Latitude": 29.9680, "Longitude": 30.9250, "PhoneNumber": "01198765432", "ServicesOffered": "Mechanical, Electrical, Brakes, Paint, AC", "OpeningHours": "Sat-Thu 9am-7pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Repair Service Center October 2", "NameAr": "مركز إصلاح السيارات أكتوبر 2", "Address": "6th of October City", "Latitude": 29.9650, "Longitude": 30.9220, "PhoneNumber": "01011112222", "ServicesOffered": "Automotive Service", "OpeningHours": "Sat-Thu 9am-6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Auto Service Nissan October", "NameAr": "خدمة نيسان للسيارات أكتوبر", "Address": "6th of October City", "Latitude": 29.9670, "Longitude": 30.9260, "PhoneNumber": "01022223333", "ServicesOffered": "Mechanical, Electricity, Suspension, Brakes, Lubricants", "OpeningHours": "Mon-Sat 10am-6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Kiro Car Service Center", "NameAr": "مركز كيرو لصيانة السيارات", "Address": "Al‑Hayy 11, Gamal Abdel Nasser St, 6th October City", "Latitude": 29.9580, "Longitude": 30.9100, "PhoneNumber": "01222728260", "ServicesOffered": "Engine Diagnostics (GT1/ISIS/ICOM), Electrical, AC, Mechanical, Transmission", "OpeningHours": "Sat‑Thu 10am‑11pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Sand Group Auto Service", "NameAr": "مركز ساند جروب لصيانة السيارات", "Address": "Piece 23, 2nd Industrial Zone Service Spine, 6th October City", "Latitude": 29.9550, "Longitude": 30.9050, "PhoneNumber": "01098693222", "ServicesOffered": "Mechanics, Electrical, AC, Body & Paint, Diesel engine, Genuine parts", "OpeningHours": "Sat‑Thu 9am‑6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Rally Motors", "NameAr": "رالى موتورز", "Address": "6th October City", "Latitude": 29.91841448970566, "Longitude": 30.911635457698893, "PhoneNumber": "", "ServicesOffered": "Mechanics, Electrical, Suspension, Bodywork, Brakes, Oil", "OpeningHours": "Mon‑Sat 9am‑5pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Jarrag Auto", "NameAr": "جراج اوتو", "Address": "6th October City", "Latitude": 29.9620, "Longitude": 30.9150, "PhoneNumber": "", "ServicesOffered": "Mechanics, Electrical, Suspension, Bodywork, Brakes, Oil", "OpeningHours": "Mon‑Sat 1pm‑11pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Commercial Motors AC Service", "NameAr": "كومرشال موتورز لصيانة التكييف", "Address": "1st Industrial Zone, 6th October City", "Latitude": 29.9520, "Longitude": 30.9000, "PhoneNumber": "0238200279", "ServicesOffered": "Car AC recharge & repair", "OpeningHours": "Sat‑Thu 9am‑6pm", "Category": "ACRepair", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Magic Auto Service", "NameAr": "ماجيك أوتو سيرفيس", "Address": "Piece 117, 6th of October Corridor service road, 3rd Industrial Zone", "Latitude": 29.9650, "Longitude": 30.9070, "PhoneNumber": "01004149834", "ServicesOffered": "AC, Mechanics, Electrical", "OpeningHours": "Sat‑Thu 9am‑6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Al-Khitab Service Center October", "NameAr": "مركز الخطاب أكتوبر", "Address": "Qaryat Al‑Mukhtar, 6th of October City", "Latitude": 29.9700, "Longitude": 30.9200, "PhoneNumber": "01000510078", "ServicesOffered": "Electrical services", "OpeningHours": "Sat‑Thu 9am‑6pm", "Category": "Diagnostics", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Sahma Car Service", "NameAr": "سمحا لصيانة السيارات", "Address": "Kafraway Corridor, 6th of October City", "Latitude": 29.9685, "Longitude": 30.9225, "PhoneNumber": "01006994907", "ServicesOffered": "General Mechanics, Suspension, Electrical", "OpeningHours": "Sat‑Thu 9am‑6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Al‑Alamiah Auto Repair October", "NameAr": "العالمية لاصلاح السيارات أكتوبر", "Address": "Garden of Firouze Center, Hayy 3, 6th October City", "Latitude": 29.9635, "Longitude": 30.9180, "PhoneNumber": "", "ServicesOffered": "Mechanics & diagnostics", "OpeningHours": "Sat‑Thu 9am‑6pm", "Category": "Diagnostics", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Star Tools Auto", "NameAr": "ستار تولز لصيانة السيارات", "Address": "Villa 164, Sector 5, 6th October City", "Latitude": 29.9570, "Longitude": 30.9120, "PhoneNumber": "", "ServicesOffered": "Spare parts, Mechanics", "OpeningHours": "Sat‑Thu 9am‑6pm", "Category": "NewAutoParts", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Technical Workshop For Cars Maintenance (3rd District)", "NameAr": "ورشة فنية لصيانة السيارات – الحي 3", "Address": "5th Neighbourhood, 3rd District, 6th Oct City", "Latitude": 29.9620, "Longitude": 30.9180, "PhoneNumber": "01099485311", "ServicesOffered": "General Repairs, Servicing Equipment", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Technical Workshop For Cars Maintenance (11th District B)", "NameAr": "ورشة فنية لصيانة السيارات – الحي 11 ب", "Address": "11th District, 6th Oct City", "Latitude": 29.9645, "Longitude": 30.9205, "PhoneNumber": "01222976007", "ServicesOffered": "General Repairs, Servicing Equipment", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Engineering Workshop (October Grand Mall)", "NameAr": "الورشة الهندسية – أكتوبر جراند مول", "Address": "3rd District, next to October Grand Mall, 6th Oct City", "Latitude": 29.9618, "Longitude": 30.9177, "PhoneNumber": "01001511267", "ServicesOffered": "Mechanical, Electrical, Servicing Equipment", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "El Sabbah Auto Service", "NameAr": "مركز الصباح لخدمة السيارات", "Address": "Ajyad View Mall, 4th District, 6th Oct City", "Latitude": 29.9585, "Longitude": 30.9150, "PhoneNumber": "01099004561", "ServicesOffered": "Electrical, Mechanical, Body & Paint, AC, Radiators", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Auto Repair (Hayy 7)", "NameAr": "أوتو ريبير – الحي 7", "Address": "Hayy 7, next to Kilawee Market & Sudanese Negotiation Bldg, 6th October City", "Latitude": 29.9580, "Longitude": 30.9105, "PhoneNumber": "01060980088", "ServicesOffered": "Nissan, Renault, Korean & Japanese cars: Mechanics, Electrical, Chassis, AC, Paint & Body, Computer Diagnostics", "OpeningHours": "Sat–Thu 11am–10pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Top Service October", "NameAr": "توب سيرفيس أكتوبر", "Address": "University Library St (parallel to Central Axis), Omrania, 6th Oct City", "Latitude": 29.9600, "Longitude": 30.9200, "PhoneNumber": "01226005753", "ServicesOffered": "VW, Audi, Skoda, Seat: Mechanics, Electrical, Chassis, AC, Diagnostics, Body & Paint", "OpeningHours": "Mon–Wed, Sat–Sun 11am–8pm; Thu 11am–4pm; Fri closed", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Auto Group Maintenance (Autel Outlet)", "NameAr": "أوتو جروب لصيانة السيارات", "Address": "38–39 First Service Corridor, 1st Industrial Zone, next to Outlet Mall, 6th October City", "Latitude": 29.9535, "Longitude": 30.9040, "PhoneNumber": "01029666622", "ServicesOffered": "Opel, Chevrolet, MG: Inspection, Servicing, Body & Paint, Genuine Parts", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Auto Option", "NameAr": "كار أوبشن", "Address": "Al-Mogawara 5, Hayy 12, 6th Oct City", "Latitude": 29.9570, "Longitude": 30.9230, "PhoneNumber": "01229365458", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Car Tech Workshop", "NameAr": "كار تك", "Address": "Hayy 11, 6th Oct City", "Latitude": 29.9630, "Longitude": 30.9240, "PhoneNumber": "01222548796", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Car Spa October", "NameAr": "كار سبا أكتوبر", "Address": "Hayy Al-Mutamayez, 6th Oct City", "Latitude": 29.9605, "Longitude": 30.9190, "PhoneNumber": "01092042934", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "CarWash", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Car Carry", "NameAr": "كار كارى", "Address": "Hayy 11, 6th Oct City", "Latitude": 29.9635, "Longitude": 30.9195, "PhoneNumber": "01117245884", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Car Clinic October", "NameAr": "كار كلينيك أكتوبر", "Address": "Hayy 10, 6th Oct City", "Latitude": 29.9628, "Longitude": 30.9188, "PhoneNumber": "01120430308", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "Diagnostics", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Crash Workshop", "NameAr": "كراش ورشة", "Address": "Hayy 7, 6th Oct City", "Latitude": 29.9582, "Longitude": 30.9123, "PhoneNumber": "01003010870", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "BodyRepairAndPaint", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Clean Car October", "NameAr": "كلين كار أكتوبر", "Address": "6th October City", "Latitude": 29.9600, "Longitude": 30.9200, "PhoneNumber": "01001031717", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "CarWash", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Mohamed Shensh Auto Electric", "NameAr": "محمد شنش لكهرباء السيارات", "Address": "6 October St (October Tower), 6th Oct City", "Latitude": 29.9610, "Longitude": 30.9210, "PhoneNumber": "01204955650", "ServicesOffered": "Car Electrical Repair", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "Diagnostics", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Mohamed Farhat Auto Electric October", "NameAr": "محمد فرحات لكهرباء السيارات أكتوبر", "Address": "Industrial Area, 6th Oct City", "Latitude": 29.9615, "Longitude": 30.9182, "PhoneNumber": "01117726645", "ServicesOffered": "Car Electrical Repair", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "Diagnostics", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Mahmoud Auto Electric", "NameAr": "محمود لكهرباء السيارات", "Address": "Hayy 6, 6th Oct City", "Latitude": 29.9618, "Longitude": 30.9185, "PhoneNumber": "01001936448", "ServicesOffered": "Car Electrical Repair", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "Diagnostics", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Al Khitab Electrical Center", "NameAr": "مركز الخطاب للكهرباء", "Address": "Qaryat Al-Mukhtar, Area B, 6th Oct City", "Latitude": 29.9702, "Longitude": 30.9203, "PhoneNumber": "01000510079", "ServicesOffered": "Electrical Services & Diagnostics", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "Diagnostics", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Al Ekhlaas Service Center", "NameAr": "مركز الإخلاص", "Address": "Al-Kefrawy Axis, Hayy 1, 6th Oct City", "Latitude": 29.9600, "Longitude": 30.9150, "PhoneNumber": "01006994907", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Al Ameen Service Center", "NameAr": "مركز الأمين", "Address": "Al-Kefrawy Axis, Hayy 3, 6th Oct City", "Latitude": 29.9620, "Longitude": 30.9160, "PhoneNumber": "01119637015", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Al Rahma Center", "NameAr": "مركز الرحمة", "Address": "Central Axis, Ne’ma Complex Bldg, Hayy 8, 6th Oct City", "Latitude": 29.9630, "Longitude": 30.9200, "PhoneNumber": "01112847808", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Al Sultan Center", "NameAr": "مركز السلطان", "Address": "Hayy 6, 6th Oct City", "Latitude": 29.9622, "Longitude": 30.9188, "PhoneNumber": "01126262828", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Al Samah Center", "NameAr": "مركز السماح", "Address": "Hayy 4, 6th Oct City", "Latitude": 29.9590, "Longitude": 30.9170, "PhoneNumber": "01003952427", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Al Shurooq Center October", "NameAr": "مركز الشروق أكتوبر", "Address": "Makka Al‑Mukarramah St, Hayy 7, inside Al‑Ordonia Mall, 6th Oct City", "Latitude": 29.9630, "Longitude": 30.9185, "PhoneNumber": "01275459661", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Al Worsha Al Handasiya October", "NameAr": "الورشة الهندسية أكتوبر", "Address": "Makka Al‑Mukarramah St, Hayy 7, inside Al‑Ordonia Mall, 6th Oct City", "Latitude": 29.9632, "Longitude": 30.9187, "PhoneNumber": "01126374432", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Proton Point Service Center", "NameAr": "بروتون بوينت", "Address": "Al‑Kefrawy Axis, Hayy 2, inside New Jordanian Mall, 6th Oct City", "Latitude": 29.9610, "Longitude": 30.9165, "PhoneNumber": "01009627238", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Al Marwa Repair Workshop", "NameAr": "ورشة المروة لإصلاح السيارات", "Address": "Geel 2000 St, Hayy 11, inside Nakheel 2 Center, 6th Oct City", "Latitude": 29.9655, "Longitude": 30.9208, "PhoneNumber": "01225214298", "ServicesOffered": "General Car Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Ezz El-Arab Auto Group October", "NameAr": "مجموعة عز العرب للسيارات فرع أكتوبر", "Address": "Waslet Dahshur St, West Yard, 6th October City", "Latitude": 29.9760, "Longitude": 30.9020, "PhoneNumber": "01032220855", "ServicesOffered": "Manufacture & Repair, Body & Paint, Spare Parts", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Engineering Workshop For Cars Maintenance Grand Mall", "NameAr": "الورشة الهندسية لصيانة السيارات جراند مول", "Address": "3rd District (inside October Grand Mall), 6th October City", "Latitude": 29.9619, "Longitude": 30.9178, "PhoneNumber": "01001511268", "ServicesOffered": "Mechanical, Electrical, Servicing Equipment", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Technical Workshop For Cars Maintenance (3rd District B)", "NameAr": "الورشة الفنية لصيانة السيارات – الحي 3 ب", "Address": "5th Neighbourhood, 3rd District, Near Square, 6th October City", "Latitude": 29.9621, "Longitude": 30.9181, "PhoneNumber": "01099485312", "ServicesOffered": "General Repairs, Servicing Equipment", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Technical Workshop For Cars Maintenance (11th District C)", "NameAr": "الورشة الفنية لصيانة السيارات – الحي 11 ج", "Address": "11th District, Next to El Hedaya 2 Center, 6th October City", "Latitude": 29.9647, "Longitude": 30.9207, "PhoneNumber": "01222976008", "ServicesOffered": "General Repairs, Servicing Equipment", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Global Center For Maintenance Cars", "NameAr": "المركز العالمي لصيانة السيارات", "Address": "7th District, beside El Radwa Language Schools, 6th October City", "Latitude": 29.9700, "Longitude": 30.9250, "PhoneNumber": "01223657778", "ServicesOffered": "General Car Servicing, Mechanical, Electrical", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Auto Repair - Hayy 7 Annex", "NameAr": "أوتو ريبير – الحي 7 ملحق", "Address": "Hayy 7, Behind Klaway Market, 6th October City", "Latitude": 29.9583, "Longitude": 30.9124, "PhoneNumber": "01110620023", "ServicesOffered": "Mechanics, Electrical, Suspension, AC, Painting, Bodywork, Diagnostics", "OpeningHours": "Sat–Thu 11am–11pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Ahmed Agha Workshop", "NameAr": "ورشة أحمد آغا", "Address": "Iskan El-Shabab 100m, 11th District, inside Center Al‑Wijih, 6th October City", "Latitude": 29.9640, "Longitude": 30.9200, "PhoneNumber": "01001408720", "ServicesOffered": "General Car Repair & Equipment Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Mekka Workshop October", "NameAr": "ورشة مكة أكتوبر", "Address": "11th District, inside Center Al‑Halfawy, 6th October City", "Latitude": 29.9642, "Longitude": 30.9202, "PhoneNumber": "01003318094", "ServicesOffered": "General Car Repair & Equipment Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Technical Workshop – Center El Hedaya 2 Main", "NameAr": "الورشة الفنية لصيانة السيارات – مركز الهداية 2 الرئيسي", "Address": "11th District, inside Center El Hedaya 2, 6th October City", "Latitude": 29.9648, "Longitude": 30.9208, "PhoneNumber": "01224145999", "ServicesOffered": "General Car Repair & Equipment Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Alameya Cars Services October", "NameAr": "العالمية لخدمات السيارات فرع أكتوبر", "Address": "6th District, inside Center Wadi Al‑Malika, 6th October City", "Latitude": 29.9595, "Longitude": 30.9175, "PhoneNumber": "01282218444", "ServicesOffered": "General Car Repair & Equipment Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Engineering Center For Mufflers", "NameAr": "المركز الهندسي لخدمة الشكمانات", "Address": "Piece 145, Street 6, 3rd Industrial Zone, 6th October City", "Latitude": 29.9550, "Longitude": 30.9050, "PhoneNumber": "02338341377", "ServicesOffered": "Muffler & Exhaust System Service", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Abnaa Al-Daqahliya Mechanics", "NameAr": "أبناء الدقهلية لميكانيكا السيارات", "Address": "Inside Center Wadi Al‑Moluk, 6th District, 6th October City", "Latitude": 29.9590, "Longitude": 30.9170, "PhoneNumber": "01229452233", "ServicesOffered": "Mechanical Repair & Servicing", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Wahdan Auto Group", "NameAr": "وهدان أوتو جروب", "Address": "Street 47 off Street 14, 3rd Industrial Zone, 6th October City", "Latitude": 29.9555, "Longitude": 30.9045, "PhoneNumber": "02338342412", "ServicesOffered": "General Car Service & Spare Parts", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "NewAutoParts", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Abu Ziyad Al‑Sarougy", "NameAr": "أبو زياد السروجي", "Address": "Piece 80, Project 103, 6th District, 6th October City", "Latitude": 29.9592, "Longitude": 30.9172, "PhoneNumber": "01117946177", "ServicesOffered": "General Car Repair & Servicing", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Ahmad Al-Afreet Auto Electric", "NameAr": "أحمد العفريت لكهرباء السيارات", "Address": "Inside Center Wadi Al‑Moluk, 6th District, 6th October City", "Latitude": 29.9588, "Longitude": 30.9168, "PhoneNumber": "01026537353", "ServicesOffered": "Car Electrical Repairs", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "Diagnostics", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Group United Toyota Service Center", "NameAr": "المجموعة المتحدة - مركز خدمة تويوتا", "Address": "Piece 339, Extension 3rd Industrial Zone, 6th October City", "Latitude": 29.9545, "Longitude": 30.9049, "PhoneNumber": "01008552358", "ServicesOffered": "Toyota Authorized Maintenance & Repairs", "OpeningHours": "Sat–Thu 9am–6pm", "Category": "GeneralMaintenance", "OriginalCityRefSlug": "6th-october-city-ref",
+    "TargetOperationalAreaSlug": "6th-of-october-city"
+  },
+  {
+    "NameEn": "Parts Central Cairo", "NameAr": "بارتس سنترال القاهرة", "Address": "Abbas El Akkad, Cairo", "Latitude": 30.0620, "Longitude": 31.3320, "PhoneNumber": null, "ServicesOffered": "OEM Parts, Aftermarket Parts", "OpeningHours": null, "Category": "NewAutoParts", "OriginalCityRefSlug": "cairo-ref",
+    "TargetOperationalAreaSlug": "nasr-city"
+  },
+  {
+    "NameEn": "Downtown Car Wash", "NameAr": "غسيل سيارات وسط البلد", "Address": "Tahrir Square Area, Cairo", "Latitude": 30.0440, "Longitude": 31.2350, "PhoneNumber": null, "ServicesOffered": null, "OpeningHours": null, "Category": "CarWash", "OriginalCityRefSlug": "cairo-ref",
+    "TargetOperationalAreaSlug": "alqahirah-governorate" 
+  },
+  {
+    "NameEn": "Alexandria Performance Parts", "NameAr": "قطع غيار الأداء بالإسكندرية", "Address": "Sporting, Alexandria", "Latitude": 31.2170, "Longitude": 29.9400, "PhoneNumber": null, "ServicesOffered": "Exhausts,Intakes,Suspension", "OpeningHours": null, "Category": "PerformanceParts", "OriginalCityRefSlug": "alexandria-ref",
+    "TargetOperationalAreaSlug": "aliskandariyah-governorate" 
+  },
+  {
+    "NameEn": "Alexandria Diagnostics Pro", "NameAr": "تشخيص محترف الإسكندرية", "Address": "Roushdy, Alexandria", "Latitude": 31.2280, "Longitude": 29.9600, "PhoneNumber": null, "ServicesOffered": null, "OpeningHours": null, "Category": "Diagnostics", "OriginalCityRefSlug": "alexandria-ref",
+    "TargetOperationalAreaSlug": "aliskandariyah-governorate" 
+  },
+  {
+    "NameEn": "Giza Car Accessories World", "NameAr": "عالم إكسسوارات السيارات بالجيزة", "Address": "Mohandessin, Giza", "Latitude": 30.0580, "Longitude": 31.2080, "PhoneNumber": "01119876543", "ServicesOffered": null, "OpeningHours": null, "Category": "CarAccessories", "OriginalCityRefSlug": "giza-ref",
+    "TargetOperationalAreaSlug": "mohandessin"
+  },
+  {
+    "NameEn": "Giza EV Charging Station", "NameAr": "محطة شحن السيارات الكهربائية بالجيزة", "Address": "Dokki, Giza", "Latitude": 30.0450, "Longitude": 31.2100, "PhoneNumber": null, "ServicesOffered": null, "OpeningHours": null, "Category": "EVCharging", "OriginalCityRefSlug": "giza-ref",
+    "TargetOperationalAreaSlug": "dokki"
+  },
+  {
+    "NameEn": "New Cairo Premium Tire Service", "NameAr": "خدمة إطارات مميزة بالقاهرة الجديدة", "Address": "90th Street, New Cairo", "Latitude": 30.0250, "Longitude": 31.4900, "PhoneNumber": null, "ServicesOffered": null, "OpeningHours": null, "Category": "TireServices", "OriginalCityRefSlug": "new-cairo-ref",
+    "TargetOperationalAreaSlug": "new-cairo-district"
+  },
+  {
+    "NameEn": "New Cairo Body & Paint Masters", "NameAr": "ماسترز الدهان والسمكرة بالقاهرة الجديدة", "Address": "1st Settlement, New Cairo", "Latitude": 30.0070, "Longitude": 31.4300, "PhoneNumber": null, "ServicesOffered": null, "OpeningHours": null, "Category": "BodyRepairAndPaint", "OriginalCityRefSlug": "new-cairo-ref",
+    "TargetOperationalAreaSlug": "new-cairo-district"
+  }
+]
