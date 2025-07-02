@@ -1,36 +1,53 @@
-# .netgeo
-# Location-Based Platform (Leaflet + .NET + Next.js)
+# Location-Based Platform (Leaflet + .NET + Next.js + IdentityServer)
 
-A minimal location discovery system built with:
+A full-stack location discovery system with:
 
-- 🌍 Leaflet for map rendering (Next.js frontend)
-- 🛰️ .NET (Minimal API) with PostGIS for native spatial queries
-- 📦 REST API secured over HTTPS
+- 🗺️ Leaflet maps (Next.js frontend)
+- 🛰️ .NET 8 Minimal API + PostGIS for geospatial search
+- 🔐 Duende IdentityServer for authentication and access control IdentityServer: https://github.com/fady17/rally.git
 
-> 🔗 **Frontend repo:** [github.com/fady17/location-platform-frontend](https://github.com/fady17/location-platform-frontend)
+
+
+
+> 🔗 **Frontend repo:** [github.com/fady17/location-platform-frontend](https://github.com/fady17/web.git )
 
 ---
 
 ## 🧭 Features
 
 - Fast geospatial queries using PostGIS
-- Marker rendering via Leaflet
-- Client–server separation with clean REST APIs
-- Designed for local discovery and filtering
+- Secure login with OAuth2 / OpenID Connect via IdentityServer
+- Protected APIs with access tokens
+- Full-stack HTTPS setup for local development
 
 ---
 
-## 🛠 Tech Stack
-
-- **Backend**: .NET 8 Minimal APIs + PostgreSQL + PostGIS
-- **Frontend**: Next.js (Bun runtime), Leaflet, Tailwind
-- **Spatial Indexing**: PostGIS `ST_DWithin`, `ST_Transform`
 
 ---
 
-## 🧪 Running the Backend (HTTPS with Kestrel)
+## 🛠 Stack Overview
 
-1. Create a self-signed dev certificate:
+| Layer        | Tech                         |
+|--------------|------------------------------|
+| Frontend     | Next.js (with Bun) + Leaflet |
+| API          | .NET 8 Minimal API + PostGIS |
+| Auth         | Duende IdentityServer        |
+| Identity     | NextAuth.js (OAuth client)   |
 
-```bash
-dotnet dev-certs https --trust
+---
+
+## 🔐 Auth Flow (Simplified)
+
+1. Next.js uses **NextAuth.js** to initiate login with IdentityServer.
+2. User authenticates → receives access & ID tokens.
+3. Tokens are stored securely and sent with each API call.
+4. The `.NET` backend validates tokens for protected endpoints.
+
+---
+Make sure PostgreSQL + PostGIS is running and appsettings.json contains the correct connection string.
+
+dotnet run
+
+🌐 Running the Frontend (with Bun)
+	1.	Clone the frontend repo
+	2.	Install Bun:
